@@ -1,6 +1,44 @@
-petar
-Ivan
-Jivko
-Paris
-Madrid
-Roma
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <img src="html.png">
+
+        <nav>
+            <ul>
+                <li><a href="https://softuni.bg/careers">Careers</a></li>
+                <li><a href="https://softuni.bg/partners">Partners</a></li>
+                <li><a href="https://softuni.bg/forum">Forum</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="open-courses">
+            <article>
+                <img src="" alt="">
+                <h4>QA</h4>
+                <p>
+                    30 Jan
+
+                    <span>
+
+                    </span>
+                </p>
+            </article>
+
+            <button><a href="">Виж всички</a></button>
+        </section>
+
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>01:04 06-Apr-19
