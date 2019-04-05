@@ -1,3 +1,6 @@
 petar
 Ivan
 Jivko
+Paris
+Madrid
+Roma
